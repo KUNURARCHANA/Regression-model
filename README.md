@@ -19,6 +19,7 @@ This project applies machine learning regression techniques  redefine salary det
    git clone https://github.com/your-username/FINAL_PROJECT.git
    cd FINAL_PROJECT
 2.Install dependencies
+
   pip install -r requirements.txt
   
 3.open Jupiter notebook
