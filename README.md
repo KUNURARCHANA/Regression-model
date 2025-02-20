@@ -22,6 +22,9 @@ This project applies machine learning regression techniques  redefine salary det
 ## 📊 Results
 
 🔹 **Model Used**: Linear Regression,Ridge Regression and Lasso Regression:,Decision tree,KNN,polynominal regression
-  among all Linear Regression performs well with or without scaling.,the result set is attached below.
+
+we have performed with different test sizes and also with scaling and without scaling.
+we acquired different r2_score ,all the result set is attached below.
+  among all Linear Regression performs well with or without scaling.
  ![model performance with different test sizes](https://github.com/user-attachments/assets/662da31f-3a98-4f46-ae5a-c851be308f5a)
 
