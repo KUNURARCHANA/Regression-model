@@ -6,9 +6,12 @@ This project applies machine learning regression techniques  redefine salary det
 ## 📂 Project Structure
 - `FINAL PROJECT.ipynb` - Jupyter Notebook with all code and analysis.
 - `ML Case study.csv,Colleges.csv,cities.csv/` - Contains dataset files .
-- `![heatmap for regression problem bw paarmeters](https://github.com/user-attachments/assets/b10c3690-21f0-4858-b80f-2fc2ee2636b6)
-/` - Contains visualizations 
-- `requirements.txt` - Dependencies needed to run this project.
+- requirements.txt` - Dependencies needed to run this project.
+
+
+## Heat map / Visualization
+`![heatmap for regression problem bw paarmeters](https://github.com/user-attachments/assets/b10c3690-21f0-4858-b80f-2fc2ee2636b6)
+
 
 ## 🚀 How to Run
 1. Clone the repository:
